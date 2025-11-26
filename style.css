@@ -37,8 +37,24 @@ header {
   margin-left: 10px;
   font-size: 16px;
 }
+
 main {
   padding: 30px 0;
+}
+
+.app-data {
+  display: flex;
+  justify-content: space-between;
+}
+.app-city {
+  margin: 0%;
+  font-size: 38px;
+  line-height: 48px;
+}
+.app-details {
+  font-size: 16px;
+  color: rgba(39, 33, 66, 0.4);
+  line-height: 20px;
 }
 footer {
   border-top: 1px solid #ead8fd;
@@ -46,8 +62,4 @@ footer {
   text-align: center;
   font-size: 14px;
   color: rgba(0, 0, 0, 0.6);
-}
-.app-data {
-  display: flex;
-  justify-content: space-between;
 }

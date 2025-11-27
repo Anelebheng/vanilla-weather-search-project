@@ -53,9 +53,17 @@ main {
 }
 .app-details {
   font-size: 16px;
-  color: rgba(39, 33, 66, 0.4);
-  line-height: 20px;
+  color: rgba(39, 33, 66, 0.9);
+  line-height: 24px;
+  font-weight: 500;
 }
+.app-details strong {
+  color: #290849;
+}
+.app-temperature-container {
+  display: flex;
+}
+
 footer {
   border-top: 1px solid #ead8fd;
   padding: 30px 0 0 0;

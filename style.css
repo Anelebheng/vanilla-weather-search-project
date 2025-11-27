@@ -63,6 +63,18 @@ main {
 .app-temperature-container {
   display: flex;
 }
+.app-temperature {
+  font-size: 88px;
+  font-weight: 600;
+}
+.app-icon {
+  font-size: 46px;
+  margin-top: 22px;
+}
+.app-unit {
+  margin-top: 16px;
+  font-size: 28px;
+}
 
 footer {
   border-top: 1px solid #ead8fd;

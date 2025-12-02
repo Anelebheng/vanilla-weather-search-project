@@ -66,13 +66,14 @@ main {
 .app-temperature {
   font-size: 88px;
   font-weight: 600;
+  line-height: 88px;
 }
 .app-icon {
-  font-size: 46px;
-  margin-top: 22px;
+  width: 88px;
+  height: 88px;
 }
 .app-unit {
-  margin-top: 16px;
+  margin-top: 6px;
   font-size: 28px;
 }
 
